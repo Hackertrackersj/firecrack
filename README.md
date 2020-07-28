@@ -5,23 +5,23 @@ for testing websites, such as admin finder and deface with file upload method, a
 to collect Many domains, Bing Dorking is useful if you are collecting a lot of domains.
 more tools: point_down
 
-firecrack fiture:
+firecrack fiture:<br>
 
-1.hack facebook (random attack)
-2.bruteforce facebook (one account)
-3.admin finder
-4.bing dorking
-5.deface (file upload)
-install and usage:
-Termux:
+1.hack facebook (random attack)<br>
+2.bruteforce facebook <br>
+3.admin finder<br>
+4.bing dorking<br>
+5.deface (file upload)<br>
+install and usage:<br>
+Termux:<br>
 
-pkg install python2
-pkg install git
-git clone https://github.com/Hackertrackersj/Firecrack
-cd Firecrack
-pip2 install -r requirements.txt
-python2 firecrack.py
-help
+pkg install python2<br>
+pkg install git<br>
+git clone https://github.com/Hackertrackersj/Firecrack<br>
+cd Firecrack<br>
+pip2 install -r requirements.txt<br>
+python2 firecrack.py<br>
+help<br>
 Linux:
 
 apt-get install python
