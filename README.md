@@ -24,11 +24,11 @@ python2 firecrack.py<br>
 help<br>
 Linux:
 
-apt-get install python
-apt-get install python-pip
-apt-get install git
-git clone https://github.com/Hackertrackersh/Firecrack
-cd Firecrack
-pip install -r requirements.txt
-python firecrack.py
+apt-get install python<br><br>
+apt-get install python-pip<br><br>
+apt-get install git<br><br>
+git clone https://github.com/Hackertrackersh/Firecrack<br>
+cd Firecrack<br>
+pip install -r requirements.txt<br>
+python firecrack.py<br>
 help
