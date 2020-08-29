@@ -17,8 +17,8 @@ Termux:<br>
 
 pkg install python2<br>
 pkg install git<br>
-git clone https://github.com/Hackertrackersj/Firecrack<br>
-cd Firecrack<br>
+git clone https://github.com/Hackertrackersj/firecrack<br>
+cd firecrack<br>
 pip2 install -r requirements.txt<br>
 python2 firecrack.py<br>
 help<br>
@@ -27,8 +27,8 @@ Linux:
 apt-get install python<br><br>
 apt-get install python-pip<br><br>
 apt-get install git<br><br>
-git clone https://github.com/Hackertrackersh/Firecrack<br>
-cd Firecrack<br>
+git clone https://github.com/Hackertrackersh/firecrack<br>
+cd firecrack<br>
 pip install -r requirements.txt<br>
 python firecrack.py<br>
 help
